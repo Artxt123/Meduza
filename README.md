@@ -8,7 +8,9 @@
    1. - [x] Konfiguracja środowiska Windows
    2. - [x] Konfiguracja Visual Studio Code  
 3. - [x] Git Must Know
-   1. - [ ] .gitignore
+   1. - [x] .gitignore
+   2. - [x] Windows command line git
+   3. - [ ] Git branch
 
 ## Powiązane kursy
 | Nazwa kursu | Adres URL | Poziom kursu |
