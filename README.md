@@ -7,7 +7,8 @@
 2. - [x] Instalacja i konfiguracja Git  
    1. - [x] Konfiguracja środowiska Windows
    2. - [x] Konfiguracja Visual Studio Code  
-3. - [ ] Git Must Know
+3. - [x] Git Must Know
+   1. - [ ] .gitignore
 
 ## Powiązane kursy
 | Nazwa kursu | Adres URL | Poziom kursu |
