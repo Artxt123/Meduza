@@ -12,6 +12,8 @@
    2. - [x] Windows command line git
    3. - [x] Git branch
    4. - [x] Merge request
+4. - [ ] Polecenia w Git
+   1. - [ ] Git pull i commit
 
 ## Powiązane kursy
 | Nazwa kursu | Adres URL | Poziom kursu |
