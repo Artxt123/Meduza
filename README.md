@@ -10,7 +10,8 @@
 3. - [x] Git Must Know
    1. - [x] .gitignore
    2. - [x] Windows command line git
-   3. - [ ] Git branch
+   3. - [x] Git branch
+   4. - [x] Merge request
 
 ## Powiązane kursy
 | Nazwa kursu | Adres URL | Poziom kursu |
