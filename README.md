@@ -13,7 +13,9 @@
    3. - [x] Git branch
    4. - [x] Merge request
 4. - [ ] Polecenia w Git
-   1. - [ ] Git pull i commit
+   1. - [x] Git pull i commit
+   2. - [x] Używanie tagów
+   3. - [x] Git branch
 
 ## Powiązane kursy
 | Nazwa kursu | Adres URL | Poziom kursu |
