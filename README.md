@@ -19,6 +19,7 @@
    4. - [x] Git push tags
    5. - [x] Merging branches
    6. - [x] Reverting a commit
+   7. - [x] Git diff
 
 ## Powiązane kursy
 | Nazwa kursu | Adres URL | Poziom kursu |
