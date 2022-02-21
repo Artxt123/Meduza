@@ -24,3 +24,4 @@
 | ----------- | --------- | ------------ |
 | Kurs Git dla początkujących | https://strefakursow.pl/kursy/programowanie/kurs_git_dla_poczatkujacych.html | Podstawowy |
 | Kurs Github - zdalne repozytoria od podstaw | https://strefakursow.pl/kursy/programowanie/kurs_github_-_zdalne_repozytoria_od_podstaw.html | Podstawowy |
+53264562462462
