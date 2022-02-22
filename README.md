@@ -14,7 +14,7 @@
    4. - [x] Merge request
 4. - [x] Polecenia w Git
    1. - [x] Git pull i commit
-   2. - [x] Używanie tagów
+   2. - [ ] Używanie tagów
    3. - [x] Git branch
    4. - [x] Git push tags
    5. - [ ] Merging branches
