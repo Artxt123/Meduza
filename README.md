@@ -20,8 +20,15 @@
    5. - [x] Merging branches
    6. - [x] Reverting a commit
    7. - [x] Git diff
-5. - [ ] Branch management
+5. - [x] Branch management
    1. - [x] Force push na zdalne repozytorium
+   2. - [x] Identyfikacja branchy
+   3. - [x] Usuwanie lokalnych i zdalnych branchy
+   4. - [x] Prune stale branch - usuwanie informacji o śledzonym zdalnym branchu
+   5. - [x] Git log - więcej informacji
+   6. - [x] Tagging
+6. - [ ] Interactive staging
+   1. - [ ] Interactive mode 
 
 ## Powiązane kursy
 | Nazwa kursu | Adres URL | Poziom kursu |
