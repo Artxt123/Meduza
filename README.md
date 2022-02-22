@@ -12,7 +12,7 @@
    2. - [x] Windows command line git
    3. - [x] Git branch
    4. - [x] Merge request
-4. - [ ] Polecenia w Git
+4. - [x] Polecenia w Git
    1. - [x] Git pull i commit
    2. - [x] Używanie tagów
    3. - [x] Git branch
@@ -20,6 +20,8 @@
    5. - [x] Merging branches
    6. - [x] Reverting a commit
    7. - [x] Git diff
+5. - [ ] Branch management
+   1. - [x] Force push na zdalne repozytorium
 
 ## Powiązane kursy
 | Nazwa kursu | Adres URL | Poziom kursu |
