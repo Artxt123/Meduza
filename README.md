@@ -17,8 +17,20 @@
    2. - [x] Używanie tagów
    3. - [x] Git branch
    4. - [x] Git push tags
-   5. - [x] Merging branches
-   6. - [ ] NIEZNANE
+   5. - [ ] Merging branches
+   6. - [x] Reverting a commit
+   7. - [x] Git diff
+5. - [x] Branch management
+   1. - [ ] Force push na zdalne repozytorium
+   2. - [x] Identyfikacja branchy
+   3. - [x] Usuwanie lokalnych i zdalnych branchy
+   4. - [x] Prune stale branch - usuwanie informacji o śledzonym zdalnym branchu
+   5. - [x] Git log - więcej informacji
+   6. - [x] Tagging
+6. - [ ] Interactive staging
+   1. - [x] Interactive mode
+   2. - [ ] Patch mode
+   3. - [ ] NIEZNANE
 
 ## Powiązane kursy
 | Nazwa kursu | Adres URL | Poziom kursu |
