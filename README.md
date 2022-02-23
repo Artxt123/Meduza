@@ -17,11 +17,7 @@
    2. - [x] Używanie tagów
    3. - [x] Git branch
    4. - [x] Git push tags
-<<<<<<< HEAD
-   4. - [x] Merging branches
-=======
    5. - [ ] Merging branches
->>>>>>> ba1621d (second update README.md)
    6. - [x] Reverting a commit
    7. - [x] Git diff
 5. - [x] Branch management
