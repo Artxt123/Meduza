@@ -18,6 +18,7 @@
    3. - [x] Git branch
    4. - [x] Git push tags
    5. - [x] Merging branches
+   6. - [ ] NIEZNANE
 
 ## Powiązane kursy
 | Nazwa kursu | Adres URL | Poziom kursu |
